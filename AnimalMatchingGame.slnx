@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="AnimalMatchingGame/AnimalMatchingGame.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AnimalMatchingGame/AnimalMatchingGame.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
 </Solution>
