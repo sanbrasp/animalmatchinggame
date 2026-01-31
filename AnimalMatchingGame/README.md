@@ -10,7 +10,6 @@ It demonstrates basic concepts of C# programming, including event handling, imag
 (And WOW is either IntelliJ or GitHub Copilot trying to just write everything for me (even this!)).
 
 ## Features
-(coming...)
 - Simple and intuitive user interface
 - Randomized placement of animal images for each game
 - Visual feedback for matched and unmatched pairs
