@@ -14,8 +14,7 @@ It demonstrates basic concepts of C# programming, including event handling, imag
 - Simple and intuitive user interface
 - Randomized placement of animal images for each game
 - Visual feedback for matched and unmatched pairs
-- Score tracking based on the number of attempts
-- Restart option to play again
+- Play again option after completing the game
 - Timer to track how long it takes to complete the game
 
 ---
